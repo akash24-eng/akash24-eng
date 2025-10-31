@@ -48,7 +48,7 @@ I love exploring the edge where **intelligence meets creativity** — building s
 
 ### ☄️ **Connect with Me**
 <p align="center">
-  <a href="www.linkedin.com/in/akash-vaishnav-3160432b4"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=00ffff"/></a>
+  <a href="https://www.linkedin.com/in/akash-vaishnav-3160432b4/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=00ffff"/></a>
   <a href="https://x.com/Akashva16452049"><img src="https://img.shields.io/badge/Twitter-0f172a?style=for-the-badge&logo=twitter&logoColor=00ffff"/></a>
 </p>
 
