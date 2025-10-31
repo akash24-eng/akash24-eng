@@ -12,11 +12,12 @@ I love exploring the edge where **intelligence meets creativity** — building s
 
 ---
 
-### 🧠 **What I’m Working On**
-- 🚀 Building a **voice-based AI call agent** using open-source stacks  
-- 🌱 Learning **Next.js**, **Langflow**, and **LLM internals**  
-- 🧩 Experimenting with **blockchain logic** for transparent automation  
-- 🤝 Collaborating on projects that blend **frontend design with AI behavior**
+ ### 🧠 What I’m Working On
+- 💡 Exploring **AI/ML models** and integrating them into small projects  
+- ⚙️ Practicing **Data Structures and Algorithms** for better problem-solving  
+- 🌱 Learning **Python**, **Next.js** step-by-step  
+- 🧩 Understanding how **AI and Web** can merge for smart apps
+
 
 ---
 
@@ -47,14 +48,23 @@ I love exploring the edge where **intelligence meets creativity** — building s
 
 ### ☄️ **Connect with Me**
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=00ffff"/></a>
-  <a href=""><img src="https://img.shields.io/badge/Twitter-0f172a?style=for-the-badge&logo=twitter&logoColor=00ffff"/></a>
+  <a href="www.linkedin.com/in/akash-vaishnav-3160432b4"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=00ffff"/></a>
+  <a href="https://x.com/Akashva16452049"><img src="https://img.shields.io/badge/Twitter-0f172a?style=for-the-badge&logo=twitter&logoColor=00ffff"/></a>
 </p>
 
 ---
 
+### 🎯 Future Goals
+- Contribute to open-source AI projects  
+- Get an internship in AI/ML or web development  
+- Build a personal portfolio site  
+
+### ⚡ Fun Fact
+I love solving problems that combine logic and creativity!
+
+---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bhumin01&style=flat-square&color=00ffff&label=Profile+Visits"/>
+  <img src="https://komarev.com/ghpvc/?username=akash24-eng&style=flat-square&color=00ffff&label=Profile+Visits"/>
 </p>
 
 <p align="center">
